@@ -6,7 +6,7 @@
 
 		<div class="col-6">
 
-			<div class="card">
+			<div class="card text-white bg-info mb-3">
 				<div class="card-header">
 					<h2 class="h2 text-center">OBJETIVO</h2>
 				</div>

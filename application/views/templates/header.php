@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
 	<meta charset="UTF-8">
@@ -13,5 +13,5 @@
 	<title><?= $title ?></title>
 </head>
 
+<body>
 
-<body class="my-2">

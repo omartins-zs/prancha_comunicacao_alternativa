@@ -10,13 +10,15 @@
 
 	<link rel="stylesheet" href="<?= base_url() ?>/assets/css/login.css">
 
+	<link rel="shortcut icon" href="<?= base_url() ?>/assets/img/icon_login.png" type="image/x-icon">
+
 	<title><?= $title ?></title>
 </head>
 
 <body>
 
 	<div class="container">
-		<h1 class="display-4 text-center mb-5">Prancha de Comunicação</h1>
+		<h1 class="display-4 text-center mb-5"><?= $titlePage ?></h1>
 		<div class="row justify-content-center">
 			<div class="col-md-6 ">
 				<div class="card ">

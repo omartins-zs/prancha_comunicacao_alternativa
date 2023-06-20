@@ -1,0 +1,30 @@
+/* Geral */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;700&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html,
+body {
+	height: 100%;
+}
+
+body {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	font-family: 'Poppins', sans-serif !important;
+
+	text-align: left;
+
+	color: #212529;
+	background-color: #e5e5e5;
+}
+
+.card {
+	background-color: #99e1e4;
+}

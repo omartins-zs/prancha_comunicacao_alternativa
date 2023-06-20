@@ -16,26 +16,26 @@
 <body>
 
 	<div class="container">
-		<h1 class=" ">Prancha de Comunicação</h1>
-		<div class="">
+		<h1 class="display-4 text-center mb-5">Prancha de Comunicação</h1>
+		<div class="row justify-content-center">
 			<div class="col-md-6 ">
 				<div class="card ">
 					<div class="card-body">
-						<h4 class="">Login</h4>
+						<h4 class="text-center mb-4">Login</h4>
 						<form>
-							<div class="">
+							<div class="form-group">
 								<label for="username">Usuário</label>
-								<input type="text" class="" id="username" placeholder="Digite seu usuário">
+								<input type="text" class="form-control" id="username" placeholder="Digite seu usuário">
 							</div>
-							<div class="">
+							<div class="form-group">
 								<label for="password">Senha</label>
-								<input type="password" class="" id="password" placeholder="Digite sua senha">
+								<input type="password" class="form-control" id="password" placeholder="Digite sua senha">
 							</div>
-							<button type="submit" class="">Acessar</button>
+							<div class="text-center my-3">
+								<a href="#">Esqueci minha senha</a>
+							</div>
+							<button type="submit" class="btn btn-primary btn-block">Acessar</button>
 						</form>
-						<div class="">
-							<a href="#">Esqueci minha senha</a>
-						</div>
 					</div>
 				</div>
 			</div>
